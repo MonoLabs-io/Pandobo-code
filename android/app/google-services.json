@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367161396076",
+    "project_id": "pandoboapp",
+    "storage_bucket": "pandoboapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367161396076:android:c7e499847466322750c149",
+        "android_client_info": {
+          "package_name": "com.monolabs.pandobo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtfyYFwSqZgXzBuR9EuqHT_UnPjJm9MkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
